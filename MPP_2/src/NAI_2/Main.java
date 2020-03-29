@@ -1,10 +1,10 @@
-package NAI_1;
+package NAI_2;
 
 import java.io.IOException;
 
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        new Knn("iris_training.txt","iris_test.txt");
+        new Perception("iris_training.txt","iris_test.txt");
     }
 }

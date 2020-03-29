@@ -1,4 +1,4 @@
-package NAI_1;
+package NAI_2;
 
 public class Iris {
 
